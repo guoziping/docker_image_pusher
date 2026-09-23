@@ -7,5 +7,5 @@
 # --platform=linux/arm64 bitnamilegacy/minio:2025.7.23
 # --platform=linux/arm64 jitsi/base-java:stable-10710
 #coturn/coturn:4.18
-drakknar/faster-qwen3-tts:latest
-
+# drakknar/faster-qwen3-tts:latest
+qwen3-tts/qwen3-tts-12hz-1.7b-customvoice:latest

@@ -10,4 +10,5 @@
 # drakknar/faster-qwen3-tts:latest
 # qwen3-tts/qwen3-tts-12hz-1.7b-customvoice:latest
 # csdn-mirror/qwen3-tts:1.7b-customvoice
-eclipse-temurin:17-jre
+# eclipse-temurin:17-jre
+nginx:1.27-alpine

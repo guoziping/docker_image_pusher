@@ -13,4 +13,5 @@
 # eclipse-temurin:17-jre
 # nginx:1.27-alpine
 # mysql:8.0.26
-python:3.11-slim
+# python:3.11-slim
+lmsysorg/sglang:latest

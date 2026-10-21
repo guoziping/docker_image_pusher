@@ -16,5 +16,11 @@
 # python:3.11-slim
 # lmsysorg/sglang:latest
 # sonatype/nexus3
-ghcr.io/klboke/kkrepo:latest
-gitea/gitea:latest
+# ghcr.io/klboke/kkrepo:latest
+# gitea/gitea:latest
+ghcr.io/iflytek/skillhub-scanner:latest
+ghcr.io/iflytek/skillhub-server:latest
+ghcr.io/iflytek/skillhub-web:latest
+ghcr.io/iflytek/skillhub-github-sync:latest
+postgres:16-alpine
+redis:7-alpine

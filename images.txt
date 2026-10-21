@@ -14,4 +14,5 @@
 # nginx:1.27-alpine
 # mysql:8.0.26
 # python:3.11-slim
-lmsysorg/sglang:latest
+# lmsysorg/sglang:latest
+sonatype/nexus3

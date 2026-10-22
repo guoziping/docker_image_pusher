@@ -21,6 +21,6 @@
 # ghcr.io/iflytek/skillhub-scanner:latest
 # ghcr.io/iflytek/skillhub-server:latest
 # ghcr.io/iflytek/skillhub-web:latest
-ghcr.io/iflytek/skillhub-github-sync:latest
+# ghcr.io/iflytek/skillhub-github-sync:latest
 postgres:16-alpine
 redis:7-alpine

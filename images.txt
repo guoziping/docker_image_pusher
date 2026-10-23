@@ -22,5 +22,6 @@
 # ghcr.io/iflytek/skillhub-server:latest
 # ghcr.io/iflytek/skillhub-web:latest
 # ghcr.io/iflytek/skillhub-github-sync:latest
-postgres:16-alpine
-redis:7-alpine
+#postgres:16-alpine
+#redis:7-alpine
+codeberg.org/forgejo/forgejo:17

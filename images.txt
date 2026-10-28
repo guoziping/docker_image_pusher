@@ -25,4 +25,5 @@
 #postgres:16-alpine
 #redis:7-alpine
 # codeberg.org/forgejo/forgejo:17
-redis:8.10.3-alpine
+# redis:8.10.3-alpine
+registry.gitlab.cn/omnibus/gitlab-jh:latest

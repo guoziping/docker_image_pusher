@@ -28,5 +28,6 @@
 # redis:8.10.3-alpine
 # registry.gitlab.cn/omnibus/gitlab-jh:latest
 # vllm/vllm-openai:nightly
-qdrant/qdrant:latest
-pgvector/pgvector:pg15
+# qdrant/qdrant:latest
+# pgvector/pgvector:pg15
+ubuntu:24.04

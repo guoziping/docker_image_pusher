@@ -30,4 +30,9 @@
 # vllm/vllm-openai:nightly
 # qdrant/qdrant:latest
 # pgvector/pgvector:pg15
-ubuntu:24.04
+# ubuntu:24.04
+
+
+ghcr.io/volcengine/openviking:latest
+node:24-bookworm-slim
+
